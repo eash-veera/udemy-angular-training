@@ -1,0 +1,24 @@
+.alert{
+    width:400px;
+    height:200px;
+    border-radius:3px;
+}
+
+.alert.success{
+    border:1px solid green;
+}
+
+.alert.success header{
+    width:100%;
+    height:49px;
+    line-height:40px; 
+    border-bottom:1px solid green; 
+    font-size:16px;
+    color:green;
+}
+
+.alert.success p{
+    width:100%;
+    height:150px;
+    padding-top:15px; 
+}
